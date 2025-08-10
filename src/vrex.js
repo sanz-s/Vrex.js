@@ -2,7 +2,7 @@
  * Copyright (c) 2025 Sanz
  * Released under the MIT License
  * https://opensource.org/licenses/MIT
- *
+ * https://github.com/sanz-s/Vrex.js.git
  */
 
 (function(root, factory) {
