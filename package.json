@@ -1,0 +1,25 @@
+{
+  "name": "vrex",
+  "version": "1.0.0",
+  "description": "Enhanced Path2D wrapper with SVG path export support.",
+  "main": "src/vrex.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sanz-s/Vrex.js.git"
+  },
+  "keywords": [
+    "path2d",
+    "canvas",
+    "svg",
+    "graphics",
+    "wrapper",
+    "vrex",
+    "vrex2d",
+  ],
+  "author": "Sanz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sanz-s/Vrex.js/issues"
+  },
+  "homepage": "https://github.com/sanz-s/Vrex.jsx#readme"
+}
